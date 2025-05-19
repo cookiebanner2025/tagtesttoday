@@ -1210,7 +1210,7 @@ function injectConsentHTML(detectedCookies, language = 'en') {
                  <div class="modal-buttons-container">
                     <button id="acceptAllSettingsBtn" class="cookie-btn main-accept-button">${lang.accept}</button>
                     <button id="saveSettingsBtn" class="cookie-btn main-save-btn">${lang.save}</button>
-                    <button id="rejectAllSettingsBtn" class="cookie-btn main-reject-btn">${lang.reject}</button>
+                    <button id="rejectAllSettingsBtn" class="cookie-btn top-adjust-button">${lang.reject}</button>
                 </div>
             </div>
         </div>
