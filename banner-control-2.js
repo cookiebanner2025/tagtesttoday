@@ -73,7 +73,7 @@ const config = {
         blockedCountries: [],
         blockedRegions: [],
         blockedCities: [],
-        euOnly: false,
+        euOnly: true,
         specificRegions: []
     },
     
